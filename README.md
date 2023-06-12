@@ -1,4 +1,5 @@
 1) Traiter le jeu de données, en :
+
 Réfléchissant à une idée d’application.
 Repérant des variables pertinentes pour les traitements à venir, et nécessaires pour votre idée d’application.
 Nettoyant les données en :
